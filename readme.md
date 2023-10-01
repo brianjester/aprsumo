@@ -1,5 +1,9 @@
-# APRSumo - APRS sound generator for a browser on a cell phone out of cell range.  Requires a nearby radio and amateur radio license.
+# APRSumo - an APRS sound generator for your browser
 
+## Description
+An APRS (Automated Packet Reporting System) sound generator for a browser.  The typical use case is to run this locally on the cell phone that is out of cell range.  Requires a nearby VHF radio, audio cables, possible dongle between phone and cables, and an amateur radio license.
+
+## Credits
 Origial project: By Kevin Poulton, M0VXY: https://kevinmpoulton.github.io/APRS.JS/
 
 ## How to use
