@@ -6,7 +6,7 @@ An APRS (Automated Packet Reporting System) sound generator for a browser.  The 
 ## Credits
 Origial project: By Kevin Poulton, M0VXY: https://kevinmpoulton.github.io/APRS.JS/
 
-## How to use
+## How to use the Web Page
 Note: all text is uppercase
 * Enter your call sign (source address)
 * SSID mut be filled in as well (defaults to 0)
@@ -17,3 +17,16 @@ Note: all text is uppercase
 * Plug the appropriate dongle between the phone and the audio cable for the radio. Example: https://www.miklor.com/COM/Review_APRS.php
 * Ensure you are within radio range of an APRS internet gateway: https://aprs.fi/#!lat=32.7203&lng=-117.1552
 * Click Generate Sound
+
+## How to use the Web Page out of cell range on an iPhone
+* Open the web page in an Safari browser
+* Click the Share icon at the bottom of the page
+* Scroll down and select Add to Reading List (glasses icon)
+* Click the Bookmark/Reading List icon (open book) at the bottom of the page
+* Ensure the Reading List (glasses) option is selected
+* Click on the local version of the page saved in the Reading List
+* With the phone unlocked, pull down from the top right corner of the screen and select the cell phone icon
+* Click OK to the information message
+* Click the Bookmark/Reading List icon (open book) at the bottom of the page
+* Ensure the Reading List (glasses) option is selected
+* Click on the local version of the page saved in the Reading List
