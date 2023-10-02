@@ -18,7 +18,7 @@ Note: all text is uppercase
 * Ensure you are within radio range of an APRS internet gateway: https://aprs.fi
 * Click Generate Sound
 
-## How to use the Web Page out of cell range on an iPhone
+## How to use the Web Page without cell service or WiFi on an iPhone
 * Open the web page in an Safari browser
 * Click the Share icon at the bottom of the page
 * Scroll down and select Add to Reading List (glasses icon)
